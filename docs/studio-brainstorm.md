@@ -20,17 +20,17 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> We pour blood sweat and tears
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- [Value 1: Deep worldbuilding ]
+- [Value 2: Rich character development]
+- [Value 3: Mechanics that are satisfying to engage in]
+- [Value 4: Experimentation with Mechanics]
 
 ---
 
