@@ -49,12 +49,14 @@
 
 - RPG
 - Pulling inspiration from Earthbound, Mother 3, Undertale, Yume Nikki
+
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
 > We plan on making games with a unique blend of world building, humor, satisfying mechanics, and attention to detail
+
 ---
 
 ## Tools and Technology
