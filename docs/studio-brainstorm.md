@@ -4,16 +4,14 @@
 - **Primary Ideas:**
   - Sunnyside Softare
   - Studio Sunnyside
-  - 3
-- **Alternative Ideas:**
-  - 1
-  - 2
-  - 3
+  - Sunnyside Co
 
 - **Chosen Name**: Sunnyside Software
 - **About the name**: I had eggs this morning
 - **Social Medias with name available**: Instagram, Twitter, 
-- **Possible domain names available**: 
+- **Possible domain names available**:
+  - sunnyside-game
+  - sunnysidesoftware (taken but possible to purchase)
 
 ---
 
@@ -39,7 +37,7 @@
 
 - **Demographic:** Indie Game Fans
 - **Interests:** World building, satisfying mechanics
-- **Platforms:** PC and Console
+- **Platforms:** PC, Console
 
 ---
 
@@ -63,7 +61,7 @@
 *What tools and platforms will you use to develop, test, and publish your games?*
 
 - **Game Engine(s):** GameMake Studio, RPG Maker
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
+- **Art Tools:** Inkscape, Procreate
 - **Audio Tools:** FL Studio, Audacity, Bfxr
 - **Version Control:** GitHub
 - **Publishing Platforms:** Itch.io
@@ -74,10 +72,7 @@
 *What will your studio's visual identity look like?*
 
 - **Logo Style:** Minimalistic
-- **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+- **Tagline Ideas:** "A new world begins"
 
 -- **Sketches/Logo**:
 
