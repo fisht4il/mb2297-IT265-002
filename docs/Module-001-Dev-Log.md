@@ -7,29 +7,31 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [ ] Setup IT265 Repo
+- [ ] Studio Brainstorm
+- [ ] Module 1 Devlog
 -->
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - I created the repo that will be used for this class
+  - I completed the studio brainstorm homework
+  - I completed the module 1 devlog <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - N/A <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - N/A <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- N/A <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- N/A <!--Your entry here or N/A if not applicable for this entry-->
 <!--
 
 - Example prompts:
@@ -41,4 +43,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- N/A  <!--Your entry here or N/A if not applicable for this entry-->
