@@ -7,20 +7,18 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate -->
-- [x] Goal 1
-- [x] Goal 2
-- [x] Goal 3
+- [x] Continue planning out card game
+- [x] sking friends for feedback
+- [x] Gathering inspiration for card game
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Since the last devlog I've been fleshing out my card game, as well as pulling more inspiration and gathering feedback from my friends
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - N/A
+    
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - N/A
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -39,5 +37,4 @@
 -->
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Solidify rules to game and gather more feedback
