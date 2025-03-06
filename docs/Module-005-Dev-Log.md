@@ -14,6 +14,7 @@
 #### Progress
 - **What I accomplished**:
   - Since the last devlog I've been fleshing out my card game, as well as pulling more inspiration and gathering feedback from my friends
+  
 - **Challenges faced**:
   - N/A
     
