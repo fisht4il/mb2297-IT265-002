@@ -7,19 +7,17 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate -->
-- [x] Continue working on card game with Unity
-- [x] Learn how Unity works
-- [x] Get feedback from friends
+- [x] Finish developing card game digital prototype
 
 #### Progress
 - **What I accomplished**:
-  - Since the last devlog I mainly just continued work on my card game digital prototype. 
+  - Since the last devlog I made some progress working on my digital prototype. 
   
 - **Challenges faced**:
-  - N/A
+  - Learning how to use Unity
     
 - **Solutions**:
-  - N/A
+  - Youtube tutorials
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -38,4 +36,4 @@
 -->
 
 #### Next Steps
-- Keep working
+- Finish digital prototype
